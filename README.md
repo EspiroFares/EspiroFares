@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Fares 👋
 
-<!--
-**EspiroFares/EspiroFares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in **Autonomous Systems** at Linköping University. I build robots end to end — from physics simulation to **sim-to-real** deployment on real hardware.
 
-Here are some ideas to get you started:
+**Robotics · Computer Vision · Embedded AI · Deep Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm building
+
+- 🚁 **[Autonomous-UAV](https://github.com/EspiroFares/Autonomous-UAV)** — a sim-first ROS 2 autonomy stack for an indoor person-following drone. Gazebo + ArduPilot SITL digital twin runs the same nodes as the real aircraft; GPS-denied stable hover proven on hardware.
+
+I also work on deep learning for perception — vision transformers (DINOv2), open-vocabulary models (OpenCLIP), and robustness under domain shift.
+
+---
+
+### Tech I work with
+
+`ROS 2` · `C++17` · `Python` · `ArduPilot / MAVROS` · `Gazebo` · `CARLA` · `OpenCV` · `PyTorch` · `CUDA` · `Docker` · `Linux`
+
+---
+
+📫 **faresespiro535@gmail.com** · 🔗 **[LinkedIn](https://linkedin.com/in/espiro-fares)**
